@@ -17,7 +17,7 @@ This project provides a simple file storage server and an installable CLI to int
 1. **Clone the repository**:
     ```bash
     git clone <repository_url>
-    cd file-storage
+    cd <repo-folder>
     ```
 
 2. **Build the Docker image**:
